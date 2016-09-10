@@ -4,7 +4,7 @@
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="19316949083663"
+    timestamp="19483218976347"
     token="262008426242293802" >
 
     <task
@@ -29,7 +29,7 @@
             location="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="19316949083663" >
+    <build timestamp="19483218976347" >
         <artifact
             location="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
