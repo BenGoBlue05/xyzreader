@@ -2,11 +2,186 @@
 <items version="2" >
 
     <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_687890ac771147b0a1a90986960a31386efc0fa4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_cc118373b90ec56d90c45add9b02a0b4fe6d7ebd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_7b997eaa781071d33023ecd78388d6885986625c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.0_c9b7c9c32a8139d9dc00983bd05bd65005310c3e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_15aa69ff3e13a2751f4ed3766d6741e2a418a566/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b8233ae33b7a45e08cf94487ce417f747dc411e9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_946e5346adbfc03ac010d1eab39316e665cd05a6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f5a06ddbfbc3c030a59d788ef1fe0b6aec970f48/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_d1aee7235143bca6f349fbafdb026b532f566b03/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6bf34c4b4fcd3f6913eca652d13c51dbde51c3a4">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.2.0_72157c1a770fb869c667b56d7549d66f32aa5d24/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_c3549c316f45adbd6f69e81e529d01b4beaece9c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_412235e62f2e31f10d1eddf91437f7716252833d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_12af45deaacb38b1c27af170177acd88064a39ee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_441ee1781129a73aeda5de715334c3c37d8db3f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_ce92d92804e38744d2312634893bccf84cbde205/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="1dcb8005f460d87baed0abdc9ec997a58797856e">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_214adba1e21997baaecd349df756b32c1c8ff09f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f4e6023ae0c10a52e4bdc27df8f0c32c4e9330b4">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_83fefbaabf53cce798544d10e20ba8e33b58e731/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_830af2f64a2b7aa6b05404dce4647bbc8aac2f35/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_18ece852062d66e80b46a963b976a1036fbc3d7f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_ea4a6661f12543080da27bfa9bec0855143bd888/classes.dex" />
+    </item>
+    <item
         jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="0d9a8f258e0a9f38b8838b1de08a7958e6fc624c">
+        sha1="19cd157c50ae8d5ef675135cb87839c099e510eb">
         <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_21003fdd2461384d0674a115dfa701362906f36d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="1ac5b6d36ed6d2e0b6b6e6909bc4e1fb86cf1923">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.2.0_f204a578d81ac2ea34da0d50c9d525ffde4e659f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_5c1c66df1fe0cc190c774fa125d997c47df26397/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_8bac01354f1119125fb807865d6df3e4760bb012/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_56c2d80ff94a4045e81c64adc4c1280005bb6b51/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bplewis5/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_4e03d5de83e2fb88241900f3d630eb5fb8539420/classes.dex" />
     </item>
 
 </items>

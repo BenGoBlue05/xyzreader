@@ -2755,9 +2755,9 @@ containing a value of this type.
         public static final int alertTitle=0x7f0d004c;
         public static final int all=0x7f0d0032;
         public static final int always=0x7f0d0036;
+        public static final int article_author=0x7f0d0088;
         public static final int article_body=0x7f0d0085;
         public static final int article_byline=0x7f0d0084;
-        public static final int article_subtitle=0x7f0d0088;
         public static final int article_title=0x7f0d0083;
         public static final int auto=0x7f0d0021;
         public static final int beginning=0x7f0d0034;
@@ -2998,10 +2998,11 @@ containing a value of this type.
         public static final int appbar_scrolling_view_behavior=0x7f060025;
         public static final int bottom_sheet_behavior=0x7f060026;
         public static final int character_counter_pattern=0x7f060027;
+        public static final int hello=0x7f060028;
         public static final int search_menu_title=0x7f060013;
         public static final int status_bar_notification_info_overflow=0x7f060014;
-        public static final int up=0x7f060028;
-        public static final int welcome_xyz_reader=0x7f060029;
+        public static final int up=0x7f060029;
+        public static final int welcome_xyz_reader=0x7f06002a;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f08008d;

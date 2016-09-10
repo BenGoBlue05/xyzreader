@@ -36,10 +36,11 @@
             android:textColor="@color/primary_text"
             android:ellipsize="end"
             android:maxLines="4"
+
             tools:text="Mysteries of the Universe Unsolved"/>
 
         <TextView
-            android:id="@+id/article_subtitle"
+            android:id="@+id/article_author"
             style="@style/TextAppearance.AppCompat.Body1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -47,10 +48,8 @@
             android:paddingRight="16dp"
             android:paddingBottom="16dp"
             android:textColor="@color/secondary_text"
-            android:maxLines="1"
-            android:singleLine="true"
-            android:ellipsize="end"
-            tools:text="Carl Lewis"/>
+            tools:text="Vincent Van Gogh"/>
+            />
     </LinearLayout>
 
 </android.support.v7.widget.CardView>
