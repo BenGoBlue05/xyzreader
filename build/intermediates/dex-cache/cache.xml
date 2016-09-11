@@ -117,7 +117,7 @@
         jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="f4e6023ae0c10a52e4bdc27df8f0c32c4e9330b4">
+        sha1="6b46f7f424144e2cc361fb77a495aa986fb5d1a3">
         <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_83fefbaabf53cce798544d10e20ba8e33b58e731/classes.dex" />
     </item>
     <item
@@ -145,7 +145,7 @@
         jar="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="19cd157c50ae8d5ef675135cb87839c099e510eb">
+        sha1="836bd26e5e374c4506a29d37974e34728ba05e5c">
         <dex dex="/Users/bplewis5/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_21003fdd2461384d0674a115dfa701362906f36d/classes.dex" />
     </item>
     <item
