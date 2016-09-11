@@ -2755,6 +2755,7 @@ containing a value of this type.
         public static final int alertTitle=0x7f0d004c;
         public static final int all=0x7f0d0032;
         public static final int always=0x7f0d0036;
+        public static final int appbar=0x7f0d0072;
         public static final int article_author=0x7f0d0088;
         public static final int article_body=0x7f0d0085;
         public static final int article_byline=0x7f0d0084;
@@ -2875,7 +2876,6 @@ containing a value of this type.
         public static final int title=0x7f0d0046;
         public static final int title_template=0x7f0d004b;
         public static final int toolbar=0x7f0d0073;
-        public static final int toolbar_container=0x7f0d0072;
         public static final int top=0x7f0d002b;
         public static final int topPanel=0x7f0d004a;
         public static final int touch_outside=0x7f0d0074;

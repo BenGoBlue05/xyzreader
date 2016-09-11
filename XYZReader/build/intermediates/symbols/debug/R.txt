@@ -703,6 +703,7 @@ int id add 0x7f0d001a
 int id alertTitle 0x7f0d004c
 int id all 0x7f0d0032
 int id always 0x7f0d0036
+int id appbar 0x7f0d0072
 int id article_author 0x7f0d0088
 int id article_body 0x7f0d0085
 int id article_byline 0x7f0d0084
@@ -823,7 +824,6 @@ int id time 0x7f0d008f
 int id title 0x7f0d0046
 int id title_template 0x7f0d004b
 int id toolbar 0x7f0d0073
-int id toolbar_container 0x7f0d0072
 int id top 0x7f0d002b
 int id topPanel 0x7f0d004a
 int id touch_outside 0x7f0d0074
